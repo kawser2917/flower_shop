@@ -121,10 +121,45 @@
     height: 250px;
 
 }
-.service-img{
+
+.service-img {
     width: 88px;
     height: 88px;
     display: block;
     margin: 0 auto;
- 
+
 }
+
+/* Hot deal section started */
+.hot-deal {
+    display: flex;
+    margin-top: 147px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.hot-deal-title{
+    margin: 200px 0px 0px 250px;
+    font-size: 40px;
+    color: #272727;
+    font-weight: 800;
+}
+.hot-deal-para{
+    margin: 24px 0px 0px 250px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    line-height: 30px;
+}
+.hot-deal-btn{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 120px;
+}
+.hot-deal img{
+    height: 420px;
+    height: 312px;
+    display: block;
+    margin:100px 0px 0px 100px;
+}
+
+ 
