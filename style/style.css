@@ -89,7 +89,6 @@
 .feature-plan-design-3 {
     width: 310px;
     height: 390px;
-    flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: url('../Flower Asset/pngwing\ 7.png');
     background-repeat: no-repeat;
