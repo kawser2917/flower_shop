@@ -1,4 +1,42 @@
-h1{
-    text-align: center;
-    color: red;
+* {
+    margin: 0;
+    padding: 0;
 }
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 30px;
+    color: #fff;
+}
+
+/* Header Section Style */
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+.header-info {
+    width: 60%;
+    margin-left: 100px;
+    margin-top: 197px;
+}
+
+.header-title {
+    font-size: 80px;
+    font-weight: 800;
+    color: #272727;
+}
+
+.header-desc {
+    color: rgba(39, 39, 39, 0.60);
+    line-height: 30px;
+}
+
+.btn{
+    margin-top: 32px;
+}
+
