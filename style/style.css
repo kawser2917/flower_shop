@@ -58,7 +58,8 @@
     line-height: 30px;
     margin-bottom: 30px;
 }
-.feature-plan{
+
+.feature-plan {
     display: flex;
     gap: 24px;
     justify-content: center;
@@ -75,6 +76,7 @@
     background-color: rgba(167, 33, 98, 0.15);
     background-position: bottom;
 }
+
 .feature-plan-design-2 {
     width: 310px;
     height: 390px;
@@ -86,6 +88,7 @@
     background-color: rgba(5, 151, 160, 0.15);
     background-position: bottom;
 }
+
 .feature-plan-design-3 {
     width: 310px;
     height: 390px;
@@ -104,4 +107,24 @@
     font-weight: 700;
     text-decoration-line: underline;
     margin-top: 20px;
+}
+
+/* Services section started */
+.services {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 128px 247px 128px 248px;
+    height: 250px;
+
+}
+.service-img{
+    width: 88px;
+    height: 88px;
+    display: block;
+    margin: 0 auto;
+ 
 }
