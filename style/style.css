@@ -112,12 +112,12 @@
 /* Services section started */
 .services {
     display: flex;
-    gap: 50px;
+    gap: 80px;
     justify-content: center;
     align-items: center;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
-    margin: 128px 247px 128px 248px;
+    margin: 128px 180px 128px 180px;
     height: 250px;
 
 }
