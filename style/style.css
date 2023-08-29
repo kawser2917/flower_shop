@@ -36,7 +36,73 @@
     line-height: 30px;
 }
 
-.btn{
+.btn {
     margin-top: 32px;
 }
 
+/* Feature plan Design */
+.feature {
+    margin-top: 147px;
+}
+
+.section-title {
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-para {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.feature-plan{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+
+.feature-plan-design-1 {
+    width: 310px;
+    height: 390px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: url('../Flower Asset/pngwing\ 6.png');
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-color: rgba(167, 33, 98, 0.15);
+    background-position: bottom;
+}
+.feature-plan-design-2 {
+    width: 310px;
+    height: 390px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: url('../Flower Asset/pngwing\ 5.png');
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-color: rgba(5, 151, 160, 0.15);
+    background-position: bottom;
+}
+.feature-plan-design-3 {
+    width: 310px;
+    height: 390px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: url('../Flower Asset/pngwing\ 7.png');
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-color: rgba(71, 125, 17, 0.15);
+    background-position: bottom;
+}
+
+.feature-plan-para {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    margin-top: 20px;
+}
